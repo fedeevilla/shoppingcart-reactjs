@@ -1,0 +1,1 @@
+export const min_amount = 500;

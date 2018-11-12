@@ -1,0 +1,913 @@
+{
+    "products": [
+        {
+            "id": 2729,
+            "name": "Manzana Verde (x 2 Kg)",
+            "slug": "manzana-verde-x-2-kg",
+            "permalink": "https:\/\/www.repartienda.com\/producto\/manzana-verde-x-2-kg\/",
+            "date_created": "2018-10-31T23:12:16",
+            "date_modified": "2018-10-31T23:12:29",
+            "type": "simple",
+            "status": "publish",
+            "featured": false,
+            "catalog_visibility": "visible",
+            "description": "",
+            "short_description": "",
+            "sku": "",
+            "price": "80",
+            "regular_price": "90",
+            "sale_price": "80",
+            "date_on_sale_from": "",
+            "date_on_sale_to": "",
+            "price_html": "<del><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;<\/span>90,00<\/span><\/del> <ins><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;<\/span>80,00<\/span><\/ins>",
+            "on_sale": true,
+            "purchasable": true,
+            "total_sales": 1,
+            "virtual": false,
+            "downloadable": false,
+            "downloads": [],
+            "download_limit": 0,
+            "download_expiry": 0,
+            "download_type": "standard",
+            "external_url": "",
+            "button_text": "",
+            "tax_status": "taxable",
+            "tax_class": "",
+            "manage_stock": false,
+            "stock_quantity": null,
+            "in_stock": true,
+            "backorders": "no",
+            "backorders_allowed": false,
+            "backordered": false,
+            "sold_individually": false,
+            "weight": "",
+            "dimensions": {
+                "length": "",
+                "width": "",
+                "height": ""
+            },
+            "shipping_required": true,
+            "shipping_taxable": true,
+            "shipping_class": "",
+            "shipping_class_id": 0,
+            "reviews_allowed": false,
+            "average_rating": "0.00",
+            "rating_count": 0,
+            "related_ids": [
+                366,
+                344,
+                1377,
+                1624,
+                977
+            ],
+            "upsell_ids": [],
+            "cross_sell_ids": [],
+            "parent_id": 0,
+            "purchase_note": "",
+            "categories": [
+                {
+                    "id": 22,
+                    "name": "FRUTAS",
+                    "slug": "frutas"
+                }
+            ],
+            "tags": [],
+            "images": [
+                {
+                    "id": 386,
+                    "date_created": "2018-06-26T20:26:29",
+                    "date_modified": "2018-06-26T20:26:29",
+                    "src": "https:\/\/www.repartienda.com\/wp-content\/uploads\/2018\/06\/manzana-verde.png",
+                    "name": "manzana-verde.png",
+                    "alt": "",
+                    "position": 0
+                }
+            ],
+            "attributes": [],
+            "default_attributes": [],
+            "variations": [],
+            "grouped_products": [],
+            "menu_order": 0,
+            "_links": {
+                "self": [
+                    {
+                        "href": "https:\/\/www.repartienda.com\/wp-json\/wc\/v1\/products\/2729"
+                    }
+                ],
+                "collection": [
+                    {
+                        "href": "https:\/\/www.repartienda.com\/wp-json\/wc\/v1\/products"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 2728,
+            "name": "Pomelo (x 2 Kg)",
+            "slug": "pomelo-x-2-kg",
+            "permalink": "https:\/\/www.repartienda.com\/producto\/pomelo-x-2-kg\/",
+            "date_created": "2018-10-31T23:10:11",
+            "date_modified": "2018-10-31T23:10:28",
+            "type": "simple",
+            "status": "publish",
+            "featured": false,
+            "catalog_visibility": "visible",
+            "description": "",
+            "short_description": "",
+            "sku": "",
+            "price": "60",
+            "regular_price": "70",
+            "sale_price": "60",
+            "date_on_sale_from": "",
+            "date_on_sale_to": "",
+            "price_html": "<del><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;<\/span>70,00<\/span><\/del> <ins><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;<\/span>60,00<\/span><\/ins>",
+            "on_sale": true,
+            "purchasable": true,
+            "total_sales": 4,
+            "virtual": false,
+            "downloadable": false,
+            "downloads": [],
+            "download_limit": 0,
+            "download_expiry": 0,
+            "download_type": "standard",
+            "external_url": "",
+            "button_text": "",
+            "tax_status": "taxable",
+            "tax_class": "",
+            "manage_stock": false,
+            "stock_quantity": null,
+            "in_stock": true,
+            "backorders": "no",
+            "backorders_allowed": false,
+            "backordered": false,
+            "sold_individually": false,
+            "weight": "",
+            "dimensions": {
+                "length": "",
+                "width": "",
+                "height": ""
+            },
+            "shipping_required": true,
+            "shipping_taxable": true,
+            "shipping_class": "",
+            "shipping_class_id": 0,
+            "reviews_allowed": false,
+            "average_rating": "0.00",
+            "rating_count": 0,
+            "related_ids": [
+                977,
+                346,
+                2675,
+                355,
+                1194
+            ],
+            "upsell_ids": [],
+            "cross_sell_ids": [],
+            "parent_id": 0,
+            "purchase_note": "",
+            "categories": [
+                {
+                    "id": 22,
+                    "name": "FRUTAS",
+                    "slug": "frutas"
+                }
+            ],
+            "tags": [],
+            "images": [
+                {
+                    "id": 414,
+                    "date_created": "2018-06-26T20:26:43",
+                    "date_modified": "2018-06-26T20:26:43",
+                    "src": "https:\/\/www.repartienda.com\/wp-content\/uploads\/2018\/06\/pomelo-star-ruby.jpg",
+                    "name": "pomelo-star-ruby.jpg",
+                    "alt": "",
+                    "position": 0
+                }
+            ],
+            "attributes": [],
+            "default_attributes": [],
+            "variations": [],
+            "grouped_products": [],
+            "menu_order": 0,
+            "_links": {
+                "self": [
+                    {
+                        "href": "https:\/\/www.repartienda.com\/wp-json\/wc\/v1\/products\/2728"
+                    }
+                ],
+                "collection": [
+                    {
+                        "href": "https:\/\/www.repartienda.com\/wp-json\/wc\/v1\/products"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 2727,
+            "name": "Pera (x 2 Kg)",
+            "slug": "pera-x-2-kg",
+            "permalink": "https:\/\/www.repartienda.com\/producto\/pera-x-2-kg\/",
+            "date_created": "2018-10-31T23:08:34",
+            "date_modified": "2018-10-31T23:09:00",
+            "type": "simple",
+            "status": "publish",
+            "featured": false,
+            "catalog_visibility": "visible",
+            "description": "",
+            "short_description": "",
+            "sku": "",
+            "price": "70",
+            "regular_price": "80",
+            "sale_price": "70",
+            "date_on_sale_from": "",
+            "date_on_sale_to": "",
+            "price_html": "<del><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;<\/span>80,00<\/span><\/del> <ins><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;<\/span>70,00<\/span><\/ins>",
+            "on_sale": true,
+            "purchasable": true,
+            "total_sales": 1,
+            "virtual": false,
+            "downloadable": false,
+            "downloads": [],
+            "download_limit": 0,
+            "download_expiry": 0,
+            "download_type": "standard",
+            "external_url": "",
+            "button_text": "",
+            "tax_status": "taxable",
+            "tax_class": "",
+            "manage_stock": false,
+            "stock_quantity": null,
+            "in_stock": true,
+            "backorders": "no",
+            "backorders_allowed": false,
+            "backordered": false,
+            "sold_individually": false,
+            "weight": "",
+            "dimensions": {
+                "length": "",
+                "width": "",
+                "height": ""
+            },
+            "shipping_required": true,
+            "shipping_taxable": true,
+            "shipping_class": "",
+            "shipping_class_id": 0,
+            "reviews_allowed": false,
+            "average_rating": "0.00",
+            "rating_count": 0,
+            "related_ids": [
+                1194,
+                354,
+                2675,
+                1377,
+                350
+            ],
+            "upsell_ids": [],
+            "cross_sell_ids": [],
+            "parent_id": 0,
+            "purchase_note": "",
+            "categories": [
+                {
+                    "id": 22,
+                    "name": "FRUTAS",
+                    "slug": "frutas"
+                }
+            ],
+            "tags": [],
+            "images": [
+                {
+                    "id": 864,
+                    "date_created": "2018-08-08T16:16:13",
+                    "date_modified": "2018-08-08T16:16:13",
+                    "src": "https:\/\/www.repartienda.com\/wp-content\/uploads\/2018\/06\/pera_mantequilla-1.jpg",
+                    "name": "pera_mantequilla",
+                    "alt": "",
+                    "position": 0
+                }
+            ],
+            "attributes": [],
+            "default_attributes": [],
+            "variations": [],
+            "grouped_products": [],
+            "menu_order": 0,
+            "_links": {
+                "self": [
+                    {
+                        "href": "https:\/\/www.repartienda.com\/wp-json\/wc\/v1\/products\/2727"
+                    }
+                ],
+                "collection": [
+                    {
+                        "href": "https:\/\/www.repartienda.com\/wp-json\/wc\/v1\/products"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 2726,
+            "name": "Naranja Ombligo (x 2 Kg)",
+            "slug": "naranja-ombligo-x-2-kg",
+            "permalink": "https:\/\/www.repartienda.com\/producto\/naranja-ombligo-x-2-kg\/",
+            "date_created": "2018-10-31T23:07:31",
+            "date_modified": "2018-10-31T23:07:58",
+            "type": "simple",
+            "status": "publish",
+            "featured": false,
+            "catalog_visibility": "visible",
+            "description": "",
+            "short_description": "",
+            "sku": "",
+            "price": "80",
+            "regular_price": "90",
+            "sale_price": "80",
+            "date_on_sale_from": "",
+            "date_on_sale_to": "",
+            "price_html": "<del><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;<\/span>90,00<\/span><\/del> <ins><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;<\/span>80,00<\/span><\/ins>",
+            "on_sale": true,
+            "purchasable": true,
+            "total_sales": 5,
+            "virtual": false,
+            "downloadable": false,
+            "downloads": [],
+            "download_limit": 0,
+            "download_expiry": 0,
+            "download_type": "standard",
+            "external_url": "",
+            "button_text": "",
+            "tax_status": "taxable",
+            "tax_class": "",
+            "manage_stock": false,
+            "stock_quantity": null,
+            "in_stock": true,
+            "backorders": "no",
+            "backorders_allowed": false,
+            "backordered": false,
+            "sold_individually": false,
+            "weight": "",
+            "dimensions": {
+                "length": "",
+                "width": "",
+                "height": ""
+            },
+            "shipping_required": true,
+            "shipping_taxable": true,
+            "shipping_class": "",
+            "shipping_class_id": 0,
+            "reviews_allowed": false,
+            "average_rating": "0.00",
+            "rating_count": 0,
+            "related_ids": [
+                353,
+                977,
+                346,
+                1376,
+                354
+            ],
+            "upsell_ids": [],
+            "cross_sell_ids": [],
+            "parent_id": 0,
+            "purchase_note": "",
+            "categories": [
+                {
+                    "id": 22,
+                    "name": "FRUTAS",
+                    "slug": "frutas"
+                }
+            ],
+            "tags": [],
+            "images": [
+                {
+                    "id": 411,
+                    "date_created": "2018-06-26T20:26:41",
+                    "date_modified": "2018-06-26T20:26:41",
+                    "src": "https:\/\/www.repartienda.com\/wp-content\/uploads\/2018\/06\/naranja-de-ombligo.jpg",
+                    "name": "naranja-de-ombligo.jpg",
+                    "alt": "",
+                    "position": 0
+                }
+            ],
+            "attributes": [],
+            "default_attributes": [],
+            "variations": [],
+            "grouped_products": [],
+            "menu_order": 0,
+            "_links": {
+                "self": [
+                    {
+                        "href": "https:\/\/www.repartienda.com\/wp-json\/wc\/v1\/products\/2726"
+                    }
+                ],
+                "collection": [
+                    {
+                        "href": "https:\/\/www.repartienda.com\/wp-json\/wc\/v1\/products"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 2725,
+            "name": "Mandarina (x 2 Kg)",
+            "slug": "mandarina-x-2-kg",
+            "permalink": "https:\/\/www.repartienda.com\/producto\/mandarina-x-2-kg\/",
+            "date_created": "2018-10-31T23:06:31",
+            "date_modified": "2018-10-31T23:06:55",
+            "type": "simple",
+            "status": "publish",
+            "featured": false,
+            "catalog_visibility": "visible",
+            "description": "",
+            "short_description": "",
+            "sku": "",
+            "price": "50",
+            "regular_price": "60",
+            "sale_price": "50",
+            "date_on_sale_from": "",
+            "date_on_sale_to": "",
+            "price_html": "<del><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;<\/span>60,00<\/span><\/del> <ins><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;<\/span>50,00<\/span><\/ins>",
+            "on_sale": true,
+            "purchasable": true,
+            "total_sales": 8,
+            "virtual": false,
+            "downloadable": false,
+            "downloads": [],
+            "download_limit": 0,
+            "download_expiry": 0,
+            "download_type": "standard",
+            "external_url": "",
+            "button_text": "",
+            "tax_status": "taxable",
+            "tax_class": "",
+            "manage_stock": false,
+            "stock_quantity": null,
+            "in_stock": true,
+            "backorders": "no",
+            "backorders_allowed": false,
+            "backordered": false,
+            "sold_individually": false,
+            "weight": "",
+            "dimensions": {
+                "length": "",
+                "width": "",
+                "height": ""
+            },
+            "shipping_required": true,
+            "shipping_taxable": true,
+            "shipping_class": "",
+            "shipping_class_id": 0,
+            "reviews_allowed": false,
+            "average_rating": "0.00",
+            "rating_count": 0,
+            "related_ids": [
+                2692,
+                356,
+                347,
+                354,
+                366
+            ],
+            "upsell_ids": [],
+            "cross_sell_ids": [],
+            "parent_id": 0,
+            "purchase_note": "",
+            "categories": [
+                {
+                    "id": 22,
+                    "name": "FRUTAS",
+                    "slug": "frutas"
+                }
+            ],
+            "tags": [],
+            "images": [
+                {
+                    "id": 965,
+                    "date_created": "2018-08-10T21:31:34",
+                    "date_modified": "2018-08-10T21:31:34",
+                    "src": "https:\/\/www.repartienda.com\/wp-content\/uploads\/2018\/06\/mandarinas-2.png",
+                    "name": "mandarinas",
+                    "alt": "",
+                    "position": 0
+                }
+            ],
+            "attributes": [],
+            "default_attributes": [],
+            "variations": [],
+            "grouped_products": [],
+            "menu_order": 0,
+            "_links": {
+                "self": [
+                    {
+                        "href": "https:\/\/www.repartienda.com\/wp-json\/wc\/v1\/products\/2725"
+                    }
+                ],
+                "collection": [
+                    {
+                        "href": "https:\/\/www.repartienda.com\/wp-json\/wc\/v1\/products"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 2692,
+            "name": "Manzana Roja (x 2 Kg)",
+            "slug": "manzana-roja-x-2-kg",
+            "permalink": "https:\/\/www.repartienda.com\/producto\/manzana-roja-x-2-kg\/",
+            "date_created": "2018-10-30T19:17:51",
+            "date_modified": "2018-11-08T15:38:43",
+            "type": "simple",
+            "status": "publish",
+            "featured": false,
+            "catalog_visibility": "visible",
+            "description": "",
+            "short_description": "",
+            "sku": "",
+            "price": "120",
+            "regular_price": "130",
+            "sale_price": "120",
+            "date_on_sale_from": "",
+            "date_on_sale_to": "",
+            "price_html": "<del><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;<\/span>130,00<\/span><\/del> <ins><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;<\/span>120,00<\/span><\/ins>",
+            "on_sale": true,
+            "purchasable": true,
+            "total_sales": 9,
+            "virtual": false,
+            "downloadable": false,
+            "downloads": [],
+            "download_limit": 0,
+            "download_expiry": 0,
+            "download_type": "standard",
+            "external_url": "",
+            "button_text": "",
+            "tax_status": "taxable",
+            "tax_class": "",
+            "manage_stock": false,
+            "stock_quantity": null,
+            "in_stock": true,
+            "backorders": "no",
+            "backorders_allowed": false,
+            "backordered": false,
+            "sold_individually": false,
+            "weight": "",
+            "dimensions": {
+                "length": "",
+                "width": "",
+                "height": ""
+            },
+            "shipping_required": true,
+            "shipping_taxable": true,
+            "shipping_class": "",
+            "shipping_class_id": 0,
+            "reviews_allowed": false,
+            "average_rating": "0.00",
+            "rating_count": 0,
+            "related_ids": [
+                365,
+                355,
+                346,
+                354,
+                352
+            ],
+            "upsell_ids": [],
+            "cross_sell_ids": [],
+            "parent_id": 0,
+            "purchase_note": "",
+            "categories": [
+                {
+                    "id": 22,
+                    "name": "FRUTAS",
+                    "slug": "frutas"
+                }
+            ],
+            "tags": [],
+            "images": [
+                {
+                    "id": 385,
+                    "date_created": "2018-06-26T20:26:29",
+                    "date_modified": "2018-06-26T20:26:29",
+                    "src": "https:\/\/www.repartienda.com\/wp-content\/uploads\/2018\/06\/b8f84b51890a7fe976deaf9ca529d041cf66847b0bd2bca6748f6cf5bcef2a7e_full.jpg",
+                    "name": "b8f84b51890a7fe976deaf9ca529d041cf66847b0bd2bca6748f6cf5bcef2a7e_full.jpg",
+                    "alt": "",
+                    "position": 0
+                }
+            ],
+            "attributes": [],
+            "default_attributes": [],
+            "variations": [],
+            "grouped_products": [],
+            "menu_order": 0,
+            "_links": {
+                "self": [
+                    {
+                        "href": "https:\/\/www.repartienda.com\/wp-json\/wc\/v1\/products\/2692"
+                    }
+                ],
+                "collection": [
+                    {
+                        "href": "https:\/\/www.repartienda.com\/wp-json\/wc\/v1\/products"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 2675,
+            "name": "Naranja Jugo (x 2 Kg)",
+            "slug": "naranja-jugo-x-2-kg",
+            "permalink": "https:\/\/www.repartienda.com\/producto\/naranja-jugo-x-2-kg\/",
+            "date_created": "2018-10-29T19:53:22",
+            "date_modified": "2018-10-29T19:53:41",
+            "type": "simple",
+            "status": "publish",
+            "featured": false,
+            "catalog_visibility": "visible",
+            "description": "",
+            "short_description": "",
+            "sku": "",
+            "price": "45",
+            "regular_price": "52",
+            "sale_price": "45",
+            "date_on_sale_from": "",
+            "date_on_sale_to": "",
+            "price_html": "<del><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;<\/span>52,00<\/span><\/del> <ins><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;<\/span>45,00<\/span><\/ins>",
+            "on_sale": true,
+            "purchasable": true,
+            "total_sales": 20,
+            "virtual": false,
+            "downloadable": false,
+            "downloads": [],
+            "download_limit": 0,
+            "download_expiry": 0,
+            "download_type": "standard",
+            "external_url": "",
+            "button_text": "",
+            "tax_status": "taxable",
+            "tax_class": "",
+            "manage_stock": false,
+            "stock_quantity": null,
+            "in_stock": true,
+            "backorders": "no",
+            "backorders_allowed": false,
+            "backordered": false,
+            "sold_individually": false,
+            "weight": "",
+            "dimensions": {
+                "length": "",
+                "width": "",
+                "height": ""
+            },
+            "shipping_required": true,
+            "shipping_taxable": true,
+            "shipping_class": "",
+            "shipping_class_id": 0,
+            "reviews_allowed": false,
+            "average_rating": "0.00",
+            "rating_count": 0,
+            "related_ids": [
+                1492,
+                977,
+                347,
+                350,
+                344
+            ],
+            "upsell_ids": [],
+            "cross_sell_ids": [],
+            "parent_id": 0,
+            "purchase_note": "",
+            "categories": [
+                {
+                    "id": 22,
+                    "name": "FRUTAS",
+                    "slug": "frutas"
+                }
+            ],
+            "tags": [],
+            "images": [
+                {
+                    "id": 410,
+                    "date_created": "2018-06-26T20:26:41",
+                    "date_modified": "2018-06-26T20:26:41",
+                    "src": "https:\/\/www.repartienda.com\/wp-content\/uploads\/2018\/06\/descarga-1.jpg",
+                    "name": "descarga-1.jpg",
+                    "alt": "",
+                    "position": 0
+                }
+            ],
+            "attributes": [],
+            "default_attributes": [],
+            "variations": [],
+            "grouped_products": [],
+            "menu_order": 0,
+            "_links": {
+                "self": [
+                    {
+                        "href": "https:\/\/www.repartienda.com\/wp-json\/wc\/v1\/products\/2675"
+                    }
+                ],
+                "collection": [
+                    {
+                        "href": "https:\/\/www.repartienda.com\/wp-json\/wc\/v1\/products"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 1965,
+            "name": "Banana (x 2 Kg)",
+            "slug": "banana-x-2-kg",
+            "permalink": "https:\/\/www.repartienda.com\/producto\/banana-x-2-kg\/",
+            "date_created": "2018-10-24T22:20:46",
+            "date_modified": "2018-10-24T22:22:56",
+            "type": "simple",
+            "status": "publish",
+            "featured": false,
+            "catalog_visibility": "visible",
+            "description": "",
+            "short_description": "",
+            "sku": "",
+            "price": "110",
+            "regular_price": "120",
+            "sale_price": "110",
+            "date_on_sale_from": "",
+            "date_on_sale_to": "",
+            "price_html": "<del><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;<\/span>120,00<\/span><\/del> <ins><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;<\/span>110,00<\/span><\/ins>",
+            "on_sale": true,
+            "purchasable": true,
+            "total_sales": 32,
+            "virtual": false,
+            "downloadable": false,
+            "downloads": [],
+            "download_limit": 0,
+            "download_expiry": 0,
+            "download_type": "standard",
+            "external_url": "",
+            "button_text": "",
+            "tax_status": "taxable",
+            "tax_class": "",
+            "manage_stock": false,
+            "stock_quantity": null,
+            "in_stock": true,
+            "backorders": "no",
+            "backorders_allowed": false,
+            "backordered": false,
+            "sold_individually": false,
+            "weight": "",
+            "dimensions": {
+                "length": "",
+                "width": "",
+                "height": ""
+            },
+            "shipping_required": true,
+            "shipping_taxable": true,
+            "shipping_class": "",
+            "shipping_class_id": 0,
+            "reviews_allowed": false,
+            "average_rating": "0.00",
+            "rating_count": 0,
+            "related_ids": [
+                347,
+                1492,
+                1377,
+                344,
+                365
+            ],
+            "upsell_ids": [],
+            "cross_sell_ids": [],
+            "parent_id": 0,
+            "purchase_note": "",
+            "categories": [
+                {
+                    "id": 22,
+                    "name": "FRUTAS",
+                    "slug": "frutas"
+                }
+            ],
+            "tags": [],
+            "images": [
+                {
+                    "id": 376,
+                    "date_created": "2018-06-26T20:26:19",
+                    "date_modified": "2018-06-26T20:26:19",
+                    "src": "https:\/\/www.repartienda.com\/wp-content\/uploads\/2018\/06\/Bananas-Ecuador.jpg_350x350.jpg",
+                    "name": "Bananas-Ecuador.jpg_350x350.jpg",
+                    "alt": "",
+                    "position": 0
+                }
+            ],
+            "attributes": [],
+            "default_attributes": [],
+            "variations": [],
+            "grouped_products": [],
+            "menu_order": 0,
+            "_links": {
+                "self": [
+                    {
+                        "href": "https:\/\/www.repartienda.com\/wp-json\/wc\/v1\/products\/1965"
+                    }
+                ],
+                "collection": [
+                    {
+                        "href": "https:\/\/www.repartienda.com\/wp-json\/wc\/v1\/products"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 1624,
+            "name": "Frutilla (x 1\/2 Caj\u00f3n - 2,5 Kg)",
+            "slug": "frutilla-x-1-2-cajon-25-kg",
+            "permalink": "https:\/\/www.repartienda.com\/producto\/frutilla-x-1-2-cajon-25-kg\/",
+            "date_created": "2018-09-26T13:46:01",
+            "date_modified": "2018-10-22T12:47:39",
+            "type": "simple",
+            "status": "publish",
+            "featured": false,
+            "catalog_visibility": "visible",
+            "description": "",
+            "short_description": "",
+            "sku": "",
+            "price": "170",
+            "regular_price": "200",
+            "sale_price": "170",
+            "date_on_sale_from": "",
+            "date_on_sale_to": "",
+            "price_html": "<del><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;<\/span>200,00<\/span><\/del> <ins><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;<\/span>170,00<\/span><\/ins>",
+            "on_sale": true,
+            "purchasable": true,
+            "total_sales": 26,
+            "virtual": false,
+            "downloadable": false,
+            "downloads": [],
+            "download_limit": 0,
+            "download_expiry": 0,
+            "download_type": "standard",
+            "external_url": "",
+            "button_text": "",
+            "tax_status": "taxable",
+            "tax_class": "",
+            "manage_stock": false,
+            "stock_quantity": null,
+            "in_stock": true,
+            "backorders": "no",
+            "backorders_allowed": false,
+            "backordered": false,
+            "sold_individually": false,
+            "weight": "",
+            "dimensions": {
+                "length": "",
+                "width": "",
+                "height": ""
+            },
+            "shipping_required": true,
+            "shipping_taxable": true,
+            "shipping_class": "",
+            "shipping_class_id": 0,
+            "reviews_allowed": false,
+            "average_rating": "0.00",
+            "rating_count": 0,
+            "related_ids": [
+                349,
+                977,
+                351,
+                347,
+                2725
+            ],
+            "upsell_ids": [],
+            "cross_sell_ids": [],
+            "parent_id": 0,
+            "purchase_note": "",
+            "categories": [
+                {
+                    "id": 22,
+                    "name": "FRUTAS",
+                    "slug": "frutas"
+                }
+            ],
+            "tags": [],
+            "images": [
+                {
+                    "id": 1625,
+                    "date_created": "2018-09-26T14:00:39",
+                    "date_modified": "2018-09-26T14:00:39",
+                    "src": "https:\/\/www.repartienda.com\/wp-content\/uploads\/2018\/09\/envases_Kg31-500x391.jpg",
+                    "name": "envases_Kg31-500&#215;391",
+                    "alt": "",
+                    "position": 0
+                }
+            ],
+            "attributes": [],
+            "default_attributes": [],
+            "variations": [],
+            "grouped_products": [],
+            "menu_order": 0,
+            "_links": {
+                "self": [
+                    {
+                        "href": "https:\/\/www.repartienda.com\/wp-json\/wc\/v1\/products\/1624"
+                    }
+                ],
+                "collection": [
+                    {
+                        "href": "https:\/\/www.repartienda.com\/wp-json\/wc\/v1\/products"
+                    }
+                ]
+            }
+        }        
+    ]
+}
